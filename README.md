@@ -1,5 +1,3 @@
-# express-starter
-
 # how to use
 
 ```
